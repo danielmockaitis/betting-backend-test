@@ -1,0 +1,100 @@
+{
+  "bets": [
+      {
+        "userId" : "1",
+        "event": {
+          "eventId": "1",
+          "category": "Football",
+          "description": "Greenbay Packers vs. Chicago Bears",
+          "date": "10/22/2018"
+        },
+        "amount": "200",
+        "odds": "9:1",
+        "pick": "Chicago Bears"
+      },
+      {
+        "userId" : "1",
+        "event": {
+          "eventId": "2",
+          "category": "Football",
+          "description": "Houstin Texans vs. Seattle Seahawks",
+          "date": "10/28/2018"
+        },
+        "amount": "250",
+        "odds": "12:1",
+        "pick": "Houstin Texans"
+      },
+      {
+        "userId" : "1",
+        "event": {
+          "eventId": "3",
+          "category": "Baseball",
+          "description": "New York Yankees vs. Boston Red Sox",
+          "date": "10/23/1018"
+        },
+        "amount": "250",
+        "odds": "10:1",
+        "pick": "New York Yankees"
+      },
+      {
+        "userId" : "1",
+        "event": {
+          "eventId": "3",
+          "category": "Baseball",
+          "description": "New York Yankees vs. Boston Red Sox",
+          "date": "11/14/1018"
+        },
+        "amount": "100",
+        "odds": "8:1",
+        "pick": "New York Yankees"
+      },
+      {
+        "userId" : "1",
+        "event": {
+          "eventId": "4",
+          "category": "Horse Racing",
+          "description": "Kentucky Derby",
+          "date": "5/16/2019"
+        },
+        "amount": "10",
+        "odds": "100:1",
+        "pick": "Cuba"
+      },
+      {
+        "userId" : "2",
+        "event": {
+          "eventId": "4",
+          "category": "Horse Racing",
+          "description": "Kentucky Derby",
+          "date": "5/16/2019"
+        },
+        "amount": "20",
+        "odds": "100:1",
+        "pick": "Cuba"
+      },
+      {
+        "userId" : "1",
+        "event": {
+          "eventId": "4",
+          "category": "Horse Racing",
+          "description": "Kentucky Derby",
+          "date": "5/16/2019"
+        },
+        "amount": "20",
+        "odds": "50:1",
+        "pick": "Sputnick"
+      },
+      {
+        "userId" : "2",
+        "event": {
+          "eventId": "4",
+          "category": "Horse Racing",
+          "description": "Kentucky Derby",
+          "date": "5/16/2019"
+        },
+        "amount": "25",
+        "odds": "50:1",
+        "pick": "Sputnick"
+      }
+  ]
+}

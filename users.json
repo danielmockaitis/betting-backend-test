@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstname": "Joe",
+      "lastname": "Betsalot",
+      "email": "joe@betsalot.com",
+      "phone": "99999999999",
+      "verified": "true",
+      "password": "Password1234"
+    },
+    {
+      "userId": 2,
+      "firstname": "Mike",
+      "lastname": "Betsalittle",
+      "email": "mike@betsalittle.com",
+      "phone": "999999990000",
+      "verified": "true",
+      "password": "Password12345"
+    }
+
+  ]
+}
